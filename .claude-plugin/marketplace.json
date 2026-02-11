@@ -1,0 +1,24 @@
+{
+  "marketplace": {
+    "category": "Design Tools",
+    "tags": [
+      "design",
+      "ui",
+      "workflow",
+      "automation"
+    ],
+    "icon": "palette",
+    "screenshots": [],
+    "featured": false
+  },
+  "listing": {
+    "title": "Design Medi Plugin",
+    "subtitle": "디자이너를 위한 Claude Code 워크플로우 도구",
+    "description": "사내 디자이너들의 디자인 작업을 자동화하고 효율화하는 Claude Code 플러그인입니다.",
+    "installation": "claude plugin add k984530/design-medi-plugin"
+  },
+  "compatibility": {
+    "platforms": ["darwin", "linux", "win32"],
+    "minVersion": "1.0.0"
+  }
+}

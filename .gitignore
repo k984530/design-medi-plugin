@@ -1,0 +1,21 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Node (향후 사용 시)
+node_modules/
+npm-debug.log*
+
+# Environment
+.env
+.env.local
+
+# Build output
+dist/
+build/
