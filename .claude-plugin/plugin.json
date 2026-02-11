@@ -15,5 +15,6 @@
     "claude-code",
     "plugin",
     "design-system"
-  ]
+  ],
+  "commands": "./commands"
 }
