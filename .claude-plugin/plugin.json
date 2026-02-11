@@ -15,8 +15,5 @@
     "claude-code",
     "plugin",
     "design-system"
-  ],
-  "commands": "./commands",
-  "agents": "./agents",
-  "skills": "./skills"
+  ]
 }
