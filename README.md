@@ -5,7 +5,11 @@
 ## 설치
 
 ```bash
-claude plugin add k984530/design-medi-plugin
+# 1. 마켓플레이스 등록
+claude plugin marketplace add k984530/design-medi-plugin
+
+# 2. 플러그인 설치
+claude plugin install design-medi-plugin@design-medi-marketplace
 ```
 
 ## 프로젝트 구조

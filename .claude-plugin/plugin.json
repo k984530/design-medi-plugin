@@ -2,7 +2,12 @@
   "name": "design-medi-plugin",
   "version": "0.1.0",
   "description": "디자인메디 사내 디자이너를 위한 Claude Code 플러그인 - 디자인 워크플로우 자동화 도구",
-  "author": "k984530",
+  "author": {
+    "name": "k984530",
+    "url": "https://github.com/k984530"
+  },
+  "homepage": "https://github.com/k984530/design-medi-plugin",
+  "repository": "https://github.com/k984530/design-medi-plugin",
   "license": "MIT",
   "keywords": [
     "design",
@@ -11,17 +16,7 @@
     "plugin",
     "design-system"
   ],
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/k984530/design-medi-plugin"
-  },
-  "engines": {
-    "claude-code": ">=1.0.0"
-  },
-  "entrypoints": {
-    "commands": "./commands",
-    "agents": "./agents",
-    "skills": "./skills",
-    "hooks": "./hooks"
-  }
+  "commands": "./commands",
+  "agents": "./agents",
+  "skills": "./skills"
 }
